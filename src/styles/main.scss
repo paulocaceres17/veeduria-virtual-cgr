@@ -1,0 +1,6 @@
+$gap: 6rem; // En tamaños de escritorio se multiplica por 2
+// $dev: true;
+$min-width: 400px;
+$max-width: 1600px;
+@import "~ed-grid/ed-grid";
+@import '~@sweetalert2/theme-dark/dark.scss';

@@ -1,0 +1,15 @@
+export const padreState = {
+    id: '',
+    dni: '',
+    nombre: '',
+    apellido_paterno: '',
+    apellido_materno: '',
+    nombre_completo: '',
+    celular: '',
+    existe: false,
+    fecha_emision: null,
+    codigo_verificacion: '',
+    isLoading: false,
+    message: '',
+    severity: '',
+}

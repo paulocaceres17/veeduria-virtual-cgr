@@ -1,0 +1,7 @@
+export const preguntaTypes = {
+    PREGUNTA_GET_START: '[Pregunta] GET_START',
+    PREGUNTA_GET_COMPLETE: '[Pregunta] GET_COMPLETE',
+    PREGUNTA_GET_ERROR: '[Pregunta] GET_ERROR',
+    PREGUNTA_SET_COMPLETE: '[Pregunta] SET_COMPLETE',
+    PREGUNTA_SET_HABILITADO: '[Pregunta] SET_HABILITADO',
+}

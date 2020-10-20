@@ -1,0 +1,18 @@
+export const estudianteState = {
+    id: '',
+    nombre: '',
+    apellido_paterno: '',
+    apellido_materno: '',
+    dni: '',
+    nivel: '',
+    grado: '',
+    seccion: '',
+    region: '',
+    provincia: '',
+    distrito: '',
+    inst_educativa: '',
+    formato: [],
+    isLoading: false,
+    message: '',
+    severity: '',
+}
